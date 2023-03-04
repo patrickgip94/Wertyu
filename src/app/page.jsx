@@ -13,11 +13,9 @@ export default function Home() {
 
       {/* Body */}
       <div className="flex flex-col items-center mt-24">
-        <Image width="400" height="400" src="https://i.imgur.com/VAWygJR.png" />
+        <Image width="700" height="700" src="https://i.imgur.com/VAWygJR.png" />
         <HomeSearch />
       </div>
-
-      {/* Footer */}
     </>
   );
 }
