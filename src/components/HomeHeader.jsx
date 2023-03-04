@@ -9,7 +9,8 @@ const HomeHeader = () => {
     <header className="flex justify-end p-5 text-sm">
       <div className="flex space-x-4 items-center">
         <Link href="https://mail.google.com" className="hover:underline">
-          Wmail
+          <strong className="text-red-700 text-md">W</strong>
+          mail
         </Link>
         <Link href="https://image.google.com" className="hover:underline">
           Images
