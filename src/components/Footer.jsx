@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function Footer() {
   return (
     <footer className="absolute bottom-0 text-sm text-gray-500 bg-[#f2f2f2] w-full">
@@ -7,9 +9,12 @@ function Footer() {
       >
         <ul className="flex items-center space-x-6">
           <li className="link">About</li>
+
           <li className="link">Advertising</li>
           <li className="link">Business</li>
-          <li className="link">How Search works</li>
+          <Link href="https://github.com/patrickgip94">
+            <li className="link">Google Clone created by Patrick Gip</li>
+          </Link>
         </ul>
 
         <ul className="flex items-center space-x-6">
