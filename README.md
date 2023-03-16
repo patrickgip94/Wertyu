@@ -88,12 +88,12 @@ This project use `npm` but you can switch to `yarn`
 
 2. visit this link to get an api key
     ```sh
-        https://developers.google.com/custom-search/v1/using_rest
+    https://developers.google.com/custom-search/v1/using_rest
     ```
 
 3. Visit this link to get context key
     ```sh
-		https://programmablesearchengine.google.com/controlpanel/create
+	https://programmablesearchengine.google.com/controlpanel/create
     ```
 
 
