@@ -1,6 +1,9 @@
 "use client";
 
+// ICONS
 import { AiOutlineCamera, AiOutlineSearch } from "react-icons/ai";
+
+// HOOKS
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 function SearchHeaderOptions() {
