@@ -15,15 +15,14 @@ function WebSearchResults({ results }) {
               {result.formattedUrl}
             </Link>
             <Link
-              className="text-xl truncate font-medium text-blue-800"
+              className="group-hover:underline decoration-blue-800 text-xl 
+                truncate font-medium text-blue-800"
               href={result.link}
             >
               {result.title}
             </Link>
           </div>
-          <p className="text-gray-600">
-            {Parser(result.htmlSnippet)}
-          </p>
+          <p className="text-gray-600">{Parser(result.htmlSnippet)}</p>
         </div>
       ))}
     </div>
