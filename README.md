@@ -58,9 +58,6 @@ This is a clone Google with basic features as Search and navigation.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -108,8 +105,6 @@ This project use `npm` but you can switch to `yarn`
    npm run dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
@@ -118,5 +113,4 @@ Linkedln - [@Patrick Gip](https://www.linkedin.com/in/patrickgip94/)
 Email - GipPatrick94@gmail.com
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
