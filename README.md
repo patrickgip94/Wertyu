@@ -1,38 +1,113 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
+  ![enter image description here](https://i.imgur.com/6iCw24m.png)
+  <h4 align="center">Google Clone </h4>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This is a clone Google with basic features as Search and navigation.
+![enter image description here](https://i.imgur.com/71hJaQO.png)
+![enter image description here](https://i.imgur.com/SsV0pe9.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Built With
+
+* [Nextjs](https://nextjs.org/docs)
+* [TailwindCSS](https://v2.tailwindcss.com/docs)
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [HTML-react-parser](https://www.npmjs.com/package/html-react-parser)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+You need Reactjs installed or updated
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+_To get this project up and running follow these steps._
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
+This project use `npm` but you can switch to `yarn`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/patrickgip94/Wertyu.git
+   ```
 
-## Learn More
+2. visit this link to get an api key
+    ```sh
+        https://developers.google.com/custom-search/v1/using_rest
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+3. Visit this link to get context key
+    ```sh
+		https://programmablesearchengine.google.com/controlpanel/create
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. Run Project
+   ```sh
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Linkedln - [@Patrick Gip](https://www.linkedin.com/in/patrickgip94/)
+Email - GipPatrick94@gmail.com
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
