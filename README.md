@@ -1,3 +1,4 @@
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -35,7 +36,14 @@
 ## About The Project
 
 This is a clone Google with basic features as Search and navigation.
+
+
 ![enter image description here](https://i.imgur.com/71hJaQO.png)
+##
+
+![enter image description here](https://i.imgur.com/bwpBaqE.png)
+##
+
 ![enter image description here](https://i.imgur.com/SsV0pe9.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -111,3 +119,4 @@ Email - GipPatrick94@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
