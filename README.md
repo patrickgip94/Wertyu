@@ -46,8 +46,6 @@ This is a clone Google with basic features as Search and navigation.
 
 ![enter image description here](https://i.imgur.com/SsV0pe9.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
